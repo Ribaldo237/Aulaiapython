@@ -1,0 +1,19 @@
+{
+  "products": {
+    "laptop": {
+      "name": "Laptop",
+      "quantity": 10,
+      "price": 2500.00
+    },
+    "smartphone": {
+      "name": "Smartphone",
+      "quantity": 15,
+      "price": 1200.00
+    },
+    "headphone": {
+      "name": "Headphone",
+      "quantity": 20,
+      "price": 150.00
+    }
+  }
+}

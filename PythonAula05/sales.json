@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "date": "2024-12-14T18:12:42.140846",
+        "total_value": 359.98,
+        "items": [
+            {
+                "name": "Camisa",
+                "quantity": 2,
+                "price": 79.99
+            },
+            {
+                "name": "Cal\u00e7a",
+                "quantity": 1,
+                "price": 129.99
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "date": "2024-12-14T18:57:04.708449",
+        "total_value": 359.98,
+        "items": [
+            {
+                "name": "Camisa",
+                "quantity": 2,
+                "price": 79.99
+            },
+            {
+                "name": "Cal\u00e7a",
+                "quantity": 1,
+                "price": 129.99
+            }
+        ]
+    }
+]
